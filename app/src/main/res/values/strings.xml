@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RCEmulator</string>
+    <string name="device_list">Список устройств</string>
+    <string name="logs">Логи</string>
+    <string name="type_spinner_title">Тип данных</string>
+    <string-array name="type_list">
+        <item>Вибрация</item>
+        <item>Температура</item>
+    </string-array>
+    <string name="id_input_title">RFID UID</string>
+    <string name="value_input_title">Значение</string>
+    <string name="send_id_button_text">RFID</string>
+    <string name="send_value_button_text">Измерения</string>
+    <string name="random_id_button_text">Random ID</string>
+</resources>
